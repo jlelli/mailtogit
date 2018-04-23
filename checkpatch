@@ -1,2 +1,2 @@
-cd ~/source/linux/linux-pdx86/
+cd ~/work/linux/kernel/
 scripts/checkpatch.pl ~/incoming/*
